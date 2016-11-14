@@ -12,6 +12,22 @@
         "source": "D:\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\camera.xml"
     },
     {
+        "merged": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\temp.xml",
+        "source": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera.xml",
+        "source": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\guojiacheng\\Desktop\\day99\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
         "merged": "D:\\ErWeiMa\\zXing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\temp.xml",
         "source": "D:\\ErWeiMa\\zXing\\build\\intermediates\\bundles\\debug\\res\\layout\\temp.xml"
     }
